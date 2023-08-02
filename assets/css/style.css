@@ -1007,7 +1007,7 @@ Video Created Area Style
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.8);
   z-index: -1;
 }
 
@@ -1038,13 +1038,13 @@ Video Created Area Style
   font-size: 100px;
   color: #ffffff;
   line-height: 1;
-  color: #838b8b;
+  color: rgba(0, 0, 0, 0.7);
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
 
 .video-created-wrap .video-wrap a:hover i {
-  color: #ffffff;
+  color:  rgba(0, 0, 0, 0.9);
 }
 
 .video-created-wrap h2 {
@@ -2258,6 +2258,8 @@ Footer Bottom Style
   margin-top: 10px;
   font-family: "Open Sans", sans-serif;
 }
+
+
 
 /*====================================================
 HOME TWO STYLE AREA
@@ -6544,4 +6546,9 @@ Page-navigation Area Style*/
 .pagination-area .page-numbers.current {
   color: #272b2b;
 }
+
+.insta-img{
+  width:88px;
+}
 /*# sourceMappingURL=style.css.map */
+

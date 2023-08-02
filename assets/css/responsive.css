@@ -275,9 +275,9 @@
   .single-widget img {
     width: 150px;
   }
-  .single-widget .instagram li a img {
+  /* .single-widget .instagram li a img {
     width: unset;
-  }
+  } */
   .go-top.active {
     top: 85%;
   }
@@ -1229,9 +1229,9 @@
   .single-widget img {
     width: 150px;
   }
-  .single-widget .instagram li a img {
+  /* .single-widget .instagram li a img {
     width: unset;
-  }
+  } */
   .go-top.active {
     top: 85%;
   }
