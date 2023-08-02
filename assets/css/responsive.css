@@ -106,7 +106,7 @@
     text-align: center;
     right: 0;
     left: 0;
-    top: -6px;
+    /* top: -6px; */
   }
   .video-created-wrap .video-wrap a i {
     font-size: 50px;
@@ -1060,7 +1060,7 @@
     text-align: center;
     right: 0;
     left: 0;
-    top: -6px;
+    /* top: -6px; */
   }
   .video-created-wrap .video-wrap a i {
     font-size: 50px;
