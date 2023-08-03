@@ -3792,7 +3792,7 @@ Page Title Area Style
 }
 
 .page-title-area.bg-2 {
-  background-image: url(../../assets/img/page-bg/2.jpg);
+  background-image: url(../../assets/img/FOND_136.png);
 }
 
 .page-title-area.bg-3 {
@@ -6558,6 +6558,10 @@ Page-navigation Area Style*/
 
 .partner-item img{
   filter: grayscale(100%) brightness(500%);
+}
+
+.logo-footer{
+  width:60%;
 }
 /*# sourceMappingURL=style.css.map */
 
