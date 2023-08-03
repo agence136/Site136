@@ -6550,5 +6550,14 @@ Page-navigation Area Style*/
 .insta-img{
   width:88px;
 }
+
+.partner-area h2{
+  color:#ffffff;
+  text-align: center;
+}
+
+.partner-item img{
+  filter: grayscale(100%) brightness(500%);
+}
 /*# sourceMappingURL=style.css.map */
 
