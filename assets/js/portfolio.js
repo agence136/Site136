@@ -10,7 +10,7 @@ fetch("../data/data.json")
             <div class="single-portfolio">
                 <div class="portfolio-image bg-1">
                     <div class="price-wrap">
-                        <a href="${production[i].vimeo}" >
+                        <a href="production-details.html?id=${production[i].id}" >
                             <i class="flaticon-play"></i>
                         </a>
                     </div>
