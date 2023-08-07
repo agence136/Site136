@@ -1,0 +1,31 @@
+{
+    "production": [
+        {
+            "id": 1,
+            "thumbnail": "exemple.png",
+            "client": "Europe 1",
+            "tag": "captation",
+            "title": "Nouveaux locaux d'Europe 1",
+            "description": "Europe 1 a récemment changé de locaux. Le groupe nous a demandé de capter l'énergie de la première journée de travail dans ce nouveau lieu afin d'en faire un film, diffusé dès le lendemain sur toutes les plateformes. Nous avons réalisé un clip très dynamique intégrant des moments de vie, de complicité et des témoignages de ceux qui font cette radio.",
+            "vimeo": "https://player.vimeo.com/video/302930711?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        },
+        {
+            "id": 2,
+            "thumbnail": "exemple.png",
+            "client": "Europe 1",
+            "tag": "captation",
+            "title": "Nouveaux locaux d'Europe 1",
+            "description": "Europe 1 a récemment changé de locaux. Le groupe nous a demandé de capter l'énergie de la première journée de travail dans ce nouveau lieu afin d'en faire un film, diffusé dès le lendemain sur toutes les plateformes. Nous avons réalisé un clip très dynamique intégrant des moments de vie, de complicité et des témoignages de ceux qui font cette radio.",
+            "vimeo": "https://player.vimeo.com/video/302930711?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        },
+        {
+            "id": 3,
+            "thumbnail": "exemple.png",
+            "client": "Europe 1",
+            "tag": "captation",
+            "title": "Nouveaux locaux d'Europe 1",
+            "description": "Europe 1 a récemment changé de locaux. Le groupe nous a demandé de capter l'énergie de la première journée de travail dans ce nouveau lieu afin d'en faire un film, diffusé dès le lendemain sur toutes les plateformes. Nous avons réalisé un clip très dynamique intégrant des moments de vie, de complicité et des témoignages de ceux qui font cette radio.",
+            "vimeo": "https://player.vimeo.com/video/302930711?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        }
+    ]
+}

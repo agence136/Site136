@@ -462,3 +462,6 @@
 	// MixItUp Shorting
 	$('.shorting').mixItUp();
 })(jQuery);
+
+
+
