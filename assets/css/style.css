@@ -5725,12 +5725,12 @@ Portfolio Area Style
   opacity: 1;
 }
 
-.single-portfolio .portfolio-image.bg-1 {
-  background-image: url(../../assets/img/portfolio/1.jpg);
+/* .single-portfolio .portfolio-image.bg-1 {
+  background-image: url(../../assets/img/instagram/1.png);
 }
 
 .single-portfolio .portfolio-image.bg-2 {
-  background-image: url(../../assets/img/portfolio/2.jpg);
+  background-image: url(../../assets/img/instagram/2.png);
 }
 
 .single-portfolio .portfolio-image.bg-3 {
@@ -5759,6 +5759,11 @@ Portfolio Area Style
 
 .single-portfolio .portfolio-image.bg-9 {
   background-image: url(../../assets/img/portfolio/9.jpg);
+} */
+
+.portfolio-image{
+  object-fit: cover;
+  width:100%;
 }
 
 .single-portfolio .portfolio-content {

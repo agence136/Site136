@@ -10,19 +10,17 @@ fetch("../data/data.json")
         for (let i in production) {
             portfolioDisplay.innerHTML += `    <div class="col-lg-6 col-md-6 mix certified used ${production[i].tag}" style="display: inline-block;" data-bound="">
             <div class="single-portfolio">
-                <div class="portfolio-image bg-1">
-                    <div class="price-wrap">
-                        <a href="production-details.html?id=${production[i].id}" >
-                            <i class="flaticon-play"></i>
-                        </a>
-                    </div>
+            <div style="padding:56.25% 0 0 0;position:relative;">
+                <iframe src="${production[i].vimeo}" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+                style="position:absolute;top:0;left:0;width:100%;height:100%;"
+                title="136 SHOWREEL 2022"></iframe>
                 </div>
                 <div class="portfolio-content">
                     <div>
                         <span>${production[i].tag}</span>
 
                         <h3>
-                            <a href="portfolio-details.html">
+                            <a href="production-details.html?id=${production[i].id}">
                                 ${production[i].title}
                             </a>
                         </h3>
@@ -68,3 +66,10 @@ fetch("../data/data.json")
 
 
 
+    // <img src="../img/portfolio/${production[i].img}" class="portfolio-image">
+    //                 <div class="price-wrap">
+    //                     <a href="production-details.html?id=${production[i].id}" >
+    //                         <i class="flaticon-play"></i>
+    //                     </a>
+    //                 </div>
+    //             </img>
