@@ -7,8 +7,7 @@
             "tag": "captation",
             "title": "Nouveaux locaux d'Europe 1",
             "description": "Europe 1 a récemment changé de locaux. Le groupe nous a demandé de capter l'énergie de la première journée de travail dans ce nouveau lieu afin d'en faire un film, diffusé dès le lendemain sur toutes les plateformes. Nous avons réalisé un clip très dynamique intégrant des moments de vie, de complicité et des témoignages de ceux qui font cette radio.",
-            "vimeo": "https://player.vimeo.com/video/302930711?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-            "img": "europe-1.jpeg"
+            "vimeo": "https://player.vimeo.com/video/302930711?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
         },
         {
             "id": 2,
@@ -17,8 +16,7 @@
             "tag": "interview",
             "title": "MazarsLive!",
             "description": "Mazars souhaitait communiquer sur sa nouvelle application mobile MazarsLive! Nous les avons accompagnés dans leur démarche, du choix du support à la réalisation d’un motion design, en passant par l’écriture du script. 136 a réalisé trois films différents pour Mazars, destinés à trois cibles distinctes.",
-            "vimeo": "https://player.vimeo.com/video/252877803?h=07edb26097&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-            "img": "Mazars-live.jpeg"
+            "vimeo": "https://player.vimeo.com/video/252877803?h=07edb26097&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
         },
         {
             "id": 3,
@@ -27,8 +25,7 @@
             "tag": "captation",
             "title": "60 second challenge",
             "description": "Grâce à cette série de courte vidéos diffusées sur les différents réseaux sociaux, le Groupe Mazars a montré tout son savoir faire dans les domaines d’expertise de demain : robotisation, cryptomonnaies, intelligence artificielle… Le challenge ? Expliquer les enjeux majeurs d’un thème clé en 60 secondes.",
-            "vimeo": "https://player.vimeo.com/video/301901291?h=af0898bb43&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-            "img": "Mazars-challenge.jpeg"
+            "vimeo": "https://player.vimeo.com/video/301901291?h=af0898bb43&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
         },
         {
             "id": 4,
@@ -37,8 +34,7 @@
             "tag": "trailer",
             "title": "Mario + The Lapins Crétins Donkey Kong Adventure Trailer",
             "description": "Ubisoft, en partenariat avec Nintendo, a développé cette année le nouvel opus du jeu Mario + The Lapins Crétins avec la présence du célèbre Donkey Kong. 136 est intervenu dans le processus de post-production, directement dans les locaux d’Ubisoft et en co-création avec l’équipe de capture-artists présente sur place. Avec le montage rythmé, le choix de la musique et des plans, nous avons fait en sorte de satisfaire notre client en lui livrant un film à l’image de son produit.",
-            "vimeo": "https://www.youtube.com/embed/rbXi2eTDgwY",
-            "img": "mario.jpeg"
+            "vimeo": "https://www.youtube.com/embed/rbXi2eTDgwY"
         },
         {
             "id": 5,
@@ -47,8 +43,25 @@
             "tag": "Motion design",
             "title": "Film institutionnel Mazars",
             "description": "Mazars France a besoin de communiquer sur ses chiffres et ses domaines d’activité auprès de ses clients, de ses prospects, de ses collaborateurs et de ses futurs employés.Nous avons proposé à Mazars de réaliser un motion-design pour mettre toutes ces informations en image. L’idée était de réaliser une vidéo courte et impactante qui représente bien les valeurs de Mazars, une entreprise globale, innovante et dans l’air du temps.",
-            "vimeo": "https://player.vimeo.com/video/271256214?h=11291c108f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-            "img": "Mazars-instit.jpeg"
+            "vimeo": "https://player.vimeo.com/video/271256214?h=11291c108f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        },
+        {
+            "id": 6,
+            "thumbnail": "exemple.png",
+            "client": "Mazars",
+            "tag": "Série",
+            "title": "The Next CFO – How Do You Spend It?",
+            "description": "L’un des grands enjeux de Mazars est de se positionner en expert dans ses domaines d’activité. Pour notre client, nous avons développé de A à Z une web-TV appelée The Next CFO, un Netflix de la finance, dans laquelle nous abordons toutes les problématiques actuelles du monde la finance. Une des sept séries que nous avons développées s’immisce dans la vie personnelle des directeurs financiers. Une autre façon de voir le monde méconnu de la finance, ainsi que les femmes et les hommes qui le compose.",
+            "vimeo": "https://player.vimeo.com/video/299871330?h=992f7b68fa&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        },
+        {
+            "id": 7,
+            "thumbnail": "exemple.png",
+            "client": "Mazars",
+            "tag": "captation",
+            "title": "Doing Business in Morocco",
+            "description": "Mazars organise, en partenariat avec des instances françaises et étrangères, des événements ayant pour thème le business dans des pays étrangers. 136 s’occupe de réaliser les films rétrospectifs de ces événements, diffusés en interne et sur les réseaux sociaux de Mazars. Nous avons aussi proposé des formats vignettes adaptés aux réseaux sociaux pour compléter cette production.",
+            "vimeo": "https://player.vimeo.com/video/275296182?h=1651a26be0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
         }
     ]
 }
