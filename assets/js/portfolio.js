@@ -1,7 +1,6 @@
 let portfolioDisplay = document.querySelector(".portfolio-display");
 console.log(portfolioDisplay);
 
-
 // Afficher l'ensemble des productions
 fetch("../data/data.json")
     .then((response) => response.json())
@@ -27,7 +26,7 @@ fetch("../data/data.json")
                     </div>
                 </div>
             </div>
-        </div>`
+        </div>`;
         }
     });
 
@@ -39,7 +38,7 @@ fetch("../data/data.json")
         let production = data.production;
         let params = new URLSearchParams(document.location.search);
         let id = params.get("id");
-        console.log(id)
+        console.log(id);
         for (let i in production) {
             let productionId = production[i].id;
             if (productionId == id) {
@@ -57,19 +56,27 @@ fetch("../data/data.json")
                             <h3>${production[i].title}</h3>
                             <p>${production[i].description}</p>
                         </div>
+                        <div class="col-lg-4">
+								<div class="portfolio-date">
+									<ul class="date-wrap">
+										<li>Date <span>:</span></li>
+										<li>Exemple Info <span>:</span></li>
+										<li>Exemple Info <span>:</span></li>
+										<li>Exemple Info <span>:</span></li>
+									</ul>
+						        </div>
+                                </div>
                     </div>
                 </div>
-            </div>`
+                </div>`;
             }
         }
     });
 
-
-
-    // <img src="../img/portfolio/${production[i].img}" class="portfolio-image">
-    //                 <div class="price-wrap">
-    //                     <a href="production-details.html?id=${production[i].id}" >
-    //                         <i class="flaticon-play"></i>
-    //                     </a>
-    //                 </div>
-    //             </img>
+// <img src="../img/portfolio/${production[i].img}" class="portfolio-image">
+//                 <div class="price-wrap">
+//                     <a href="production-details.html?id=${production[i].id}" >
+//                         <i class="flaticon-play"></i>
+//                     </a>
+//                 </div>
+//             </img>
