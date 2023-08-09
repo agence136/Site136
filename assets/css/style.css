@@ -3635,4 +3635,17 @@ Page-navigation Area Style*/
   margin-left: 100px;
 }
 
-/*# sourceMappingURL=style.css.map */
+.about-area-two span{
+  font-size: 15px;
+  font-weight: 700;
+  text-transform: uppercase;
+  display: block;
+  margin-bottom: 20px;
+  margin-top: -6px;
+}
+
+.about-area-two .about-content h2 {
+  font-size: 50px;
+  margin-bottom: 30px;
+}
+
