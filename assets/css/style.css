@@ -1114,7 +1114,8 @@ Video Created Area Style
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.8); 
+ 
   z-index: -1;
 }
 
@@ -1540,7 +1541,8 @@ Get In Touch Area Style
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.8);
+  /* background-color: rgba(0, 0, 0, 0.8); */
+  background-color: #B5A489;
   z-index: -1;
 }
 
@@ -2140,7 +2142,9 @@ Partner Area Style
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.8);
+  /* background-color: rgba(0, 0, 0, 0.8); */
+  /* background-color: #B2B1B2; */
+  background-color: #B5A489;
   z-index: -1;
 }
 
@@ -7100,14 +7104,14 @@ Page-navigation Area Style*/
   text-align: center;
 }
 
-.partner-item img {
-  /* filter: grayscale(100%) brightness(500%); */
+/* .partner-item img {
+
   filter: grayscale(100%) brightness(100%);
 }
 
 .gk, .mazars{
   filter:invert(100%);
-}
+} */
 
 .portfolio-content {
   margin-top: 30px;
