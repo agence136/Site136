@@ -210,7 +210,16 @@ textarea.form-control {
 /*
 Bg-color Style*/
 .bg-color {
-  background-color: #fafafa;
+  /* background-color: #fafafa; */
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.bg-color h2{
+  color:#fafafa;
+}
+
+.about-area-two p{
+  color:#FAFAFA;
 }
 
 .bg-color-two {
@@ -3647,5 +3656,13 @@ Page-navigation Area Style*/
 .about-area-two .about-content h2 {
   font-size: 50px;
   margin-bottom: 30px;
+}
+
+.bio-data p{
+  color: #676a6a
+}
+
+.get-in-touch-area .default-btn{
+  border:none;
 }
 
