@@ -1,7 +1,7 @@
 {
     "production": [
         {
-            "id": 1,
+            "id": "p1",
             "thumbnail": "exemple.png",
             "client": "Europe 1",
             "tag": "captation",
@@ -10,7 +10,7 @@
             "vimeo": "https://player.vimeo.com/video/302930711?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
         },
         {
-            "id": 2,
+            "id": "p2",
             "thumbnail": "exemple.png",
             "client": "Mazars",
             "tag": "interview",
@@ -19,7 +19,7 @@
             "vimeo": "https://player.vimeo.com/video/252877803?h=07edb26097&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
         },
         {
-            "id": 3,
+            "id": "p3",
             "thumbnail": "exemple.png",
             "client": "Mazars",
             "tag": "captation",
@@ -28,7 +28,7 @@
             "vimeo": "https://player.vimeo.com/video/301901291?h=af0898bb43&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
         },
         {
-            "id": 4,
+            "id": "p4",
             "thumbnail": "exemple.png",
             "client": "Ubisoft",
             "tag": "trailer",
@@ -37,7 +37,7 @@
             "vimeo": "https://www.youtube.com/embed/rbXi2eTDgwY"
         },
         {
-            "id": 5,
+            "id": "p5",
             "thumbnail": "exemple.png",
             "client": "Mazars",
             "tag": "motion design",
@@ -46,7 +46,7 @@
             "vimeo": "https://player.vimeo.com/video/271256214?h=11291c108f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
         },
         {
-            "id": 6,
+            "id": "p6",
             "thumbnail": "exemple.png",
             "client": "Mazars",
             "tag": "série",
@@ -55,13 +55,49 @@
             "vimeo": "https://player.vimeo.com/video/299871330?h=992f7b68fa&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
         },
         {
-            "id": 7,
+            "id": "p7",
             "thumbnail": "exemple.png",
             "client": "Mazars",
             "tag": "captation",
             "title": "Doing Business in Morocco",
             "description": "Mazars organise, en partenariat avec des instances françaises et étrangères, des événements ayant pour thème le business dans des pays étrangers. 136 s’occupe de réaliser les films rétrospectifs de ces événements, diffusés en interne et sur les réseaux sociaux de Mazars. Nous avons aussi proposé des formats vignettes adaptés aux réseaux sociaux pour compléter cette production.",
             "vimeo": "https://player.vimeo.com/video/275296182?h=1651a26be0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        }
+    ],
+    "recent-blog": [
+        {
+            "id": 1,
+            "img": "../img/blog/blog1.png",
+            "date": "27 novembre 2020",
+            "title": "WEB TV MAZARS : UN PREMIER PRIX POUR 136 !",
+            "extrait": "Ton décalé, images soignées, fond… profond : The Next CFO, la chaine TV conçue par Mazars et 136 est devenue en quelques semaines un vrai media à destination des dirigeants financiers...",
+            "article": "Ton décalé, images soignées, fond… profond : The Next CFO, la chaine TV conçue par Mazars et 136 est devenue en quelques semaines un vrai media à destination des dirigeants financiers. Retour sur une opération de vidéo marketing originale. Vous pensez que la finance est la spécialité la plus soporifique d’une entreprise ? The Next CFO va vous faire changer d’avis. Cette WebTV, lancée par Mazars en mai 2018, conçue avec 136 et diffusée grâce à la plateforme vidéo de Novastream dépoussière sérieusement l’image de la profession."
+        },
+        {
+            "id": 2,
+            "img": "../img/blog/blog2.png",
+            "date": "30 août 2020",
+            "title": "Cas client | Quand Mazars devient un média",
+            "extrait": "Ton décalé, images soignées, fond… profond : The Next CFO, la chaine TV conçue par Mazars et 136 est devenue en quelques semaines un vrai media à destination des dirigeants financiers. Retour sur une opération de vidéo marketing originale. Vous pensez que la finance est la spécialité la plus soporifique d’une entreprise ? The Next…,",
+            "article": "Ton décalé, images soignées, fond… profond : The Next CFO, la chaine TV conçue par Mazars et 136 est devenue en quelques semaines un vrai media à destination des dirigeants financiers. Retour sur une opération de vidéo marketing originale. Vous pensez que la finance est la spécialité la plus soporifique d’une entreprise ? The Next CFO va vous faire changer d’avis. Cette WebTV, lancée par Mazars en mai 2018, conçue avec 136 et diffusée grâce à la plateforme vidéo de Novastream dépoussière sérieusement l’image de la profession."
+        }
+    ],
+    "blog": [
+        {
+            "id": 1,
+            "img": "../img/blog/blog1.png",
+            "date": "27 novembre 2020",
+            "title": "WEB TV MAZARS : UN PREMIER PRIX POUR 136 !",
+            "extrait": "Il y a quelques jours, nous recevions le COM-ENT d’argent du prix de la communication disruptive / impertinente pour TheNextCFO, le web TV que nous avons pensée et produite pour le Groupe Mazars. C’est une grande fierté pour nous et nos équipes qui sont récompensées du travail acharnés qu’ils ont livré toute l’année pour arriver à…",
+            "article": ""
+        },
+        {
+            "id": 2,
+            "img": "../img/blog/blog2.jpeg",
+            "date": "30 août 2020",
+            "title": "Cas client | Quand Mazars devient un média",
+            "extrait": "Ton décalé, images soignées, fond… profond : The Next CFO, la chaine TV conçue par Mazars et 136 est devenue en quelques semaines un vrai media à destination des dirigeants financiers. Retour sur une opération de vidéo marketing originale. Vous pensez que la finance est la spécialité la plus soporifique d’une entreprise ? The Next…",
+            "article": ""
         }
     ]
 }

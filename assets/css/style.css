@@ -214,12 +214,12 @@ Bg-color Style*/
   background-color: rgba(0, 0, 0, 0.8);
 }
 
-.bg-color h2{
-  color:#fafafa;
+.bg-color h2 {
+  color: #fafafa;
 }
 
-.about-area-two p{
-  color:#FAFAFA;
+.about-area-two p {
+  color: #fafafa;
 }
 
 .bg-color-two {
@@ -345,7 +345,6 @@ Section Title Area Style*/
 .section-title.white-title p {
   color: #ffffff;
 }
-
 
 /*====================================================
 HOME PAGE STYLE
@@ -1538,12 +1537,10 @@ Latest Trailer Area Style
   background-color: #606060;
 }
 
-
-
-
 /*
 Blog Area Style
 ======================================================*/
+
 .single-blog {
   margin-bottom: 30px;
   -webkit-transition: all 0.5s;
@@ -1885,9 +1882,6 @@ Footer Bottom Style
   font-family: "Open Sans", sans-serif;
 }
 
-
-
-
 /*
 Sidebar Area Style
 ======================================================*/
@@ -2085,7 +2079,6 @@ Sidebar Area Style
 .sidebar-modal.active .sidebar-modal-inner {
   right: 0;
 }
-
 
 /*====================================================
 INNER PAGE STYLE AREA
@@ -2445,7 +2438,6 @@ div#msgSubmit {
   color: #28a745;
 }
 
-
 /*
 Blog Details Area CSS
 ======================================================*/
@@ -2735,7 +2727,6 @@ Blog Details Area CSS
   -webkit-transform: translateY(-2px);
   transform: translateY(-2px);
 }
-
 
 /*
 User Area CSS
@@ -3190,8 +3181,6 @@ Testimonial Page Area Style
   color: #272b2b;
 }
 
-
-
 /*====================================================
 OTHERS STYLE AREA
 ======================================================*/
@@ -3644,7 +3633,7 @@ Page-navigation Area Style*/
   margin-left: 100px;
 }
 
-.about-area-two span{
+.about-area-two span {
   font-size: 15px;
   font-weight: 700;
   text-transform: uppercase;
@@ -3658,11 +3647,10 @@ Page-navigation Area Style*/
   margin-bottom: 30px;
 }
 
-.bio-data p{
-  color: #676a6a
+.bio-data p {
+  color: #676a6a;
 }
 
-.get-in-touch-area .default-btn{
-  border:none;
+.get-in-touch-area .default-btn {
+  border: none;
 }
-
