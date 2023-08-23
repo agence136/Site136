@@ -3,12 +3,12 @@ console.log(blogDisplay);
 
 // Afficher l'ensemble des articles
 fetch("../data/data.json")
-    .then((response) => response.json())
-    .then((data) => {
-        let blog = data.blog;
-        console.log(blog)
-        for (let i in blog) {
-            blogDisplay.innerHTML += `<div class="col-lg-6 col-md-6">
+  .then((response) => response.json())
+  .then((data) => {
+    let blog = data.blog;
+    console.log(blog)
+    for (let i in blog) {
+      blogDisplay.innerHTML += `<div class="col-lg-6 col-md-6">
 <div class="single-blog">
   <a href="blog-details.html">
     <img src="${blog[i].img}" alt="Image">
@@ -22,7 +22,7 @@ fetch("../data/data.json")
       </li>
 
       <li>
-        <i class="flaticon-calendar"></i>
+      <i class="fas fa-calendar-day"></i>
         ${blog[i].date}
       </li>
     </ul>
@@ -39,18 +39,18 @@ fetch("../data/data.json")
   </div>
 </div>
 </div>`
-        }
-    })
+    }
+  })
 
 let blogIndex = document.querySelector(".blog-index");
 
 fetch("assets/data/data.json")
-    .then((response) => response.json())
-    .then((data) => {
-        let latest = data.latest;
-        console.log(latest)
-        for (let i in latest) {
-            blogIndex.innerHTML += `<div class="col-lg-6 col-md-6">
+  .then((response) => response.json())
+  .then((data) => {
+    let latest = data.latest;
+    console.log(latest)
+    for (let i in latest) {
+      blogIndex.innerHTML += `<div class="col-lg-6 col-md-6">
 <div class="single-blog">
   <a href="blog-details.html">
     <img src="${latest[i].img}" alt="Image">
@@ -59,12 +59,12 @@ fetch("assets/data/data.json")
   <div class="blog-content">
     <ul>
       <li>
-        <i class="flaticon-user"></i>
+      <i class="far fa-user"></i>
         <a href="#">Admin</a>
       </li>
 
       <li>
-        <i class="flaticon-calendar"></i>
+      <i class="fas fa-calendar-day"></i>
         ${latest[i].date}
       </li>
     </ul>
@@ -81,8 +81,8 @@ fetch("assets/data/data.json")
   </div>
 </div>
 </div>`
-        }
-    })
+    }
+  })
 
 
 
