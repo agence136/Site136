@@ -34,7 +34,7 @@ fetch("../data/data.json")
     <p>${blog[i].extrait}</p>
 
     <a href="blog-details.html" class="read-more">
-      Learn More
+      Lire la suite...
     </a>
   </div>
 </div>
@@ -76,7 +76,7 @@ fetch("assets/data/data.json")
     <p>${latest[i].extrait}</p>
 
     <a href="blog-details.html" class="read-more">
-      Learn More
+      Lire la suite...
     </a>
   </div>
 </div>
