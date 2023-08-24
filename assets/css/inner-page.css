@@ -1,0 +1,184 @@
+/*====================================================
+INNER PAGE STYLE AREA
+======================================================*/
+/* 
+Page Title Area Style
+=====================================================*/
+.page-title-area {
+  position: relative;
+  overflow: hidden;
+  padding-top: 240px;
+  padding-bottom: 180px;
+  text-align: center;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  z-index: 1;
+}
+
+.page-title-area::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #000000;
+  opacity: 0.7;
+  z-index: -1;
+}
+
+.page-title-area.bg-1 {
+  background-image: url(../../assets/img/page-bg/1.jpg);
+}
+
+.page-title-area.bg-2 {
+  background-image: url(../../assets/img/FOND_136.png);
+}
+
+.page-title-area.bg-3 {
+  background-image: url(../../assets/img/production-back.jpg);
+}
+
+.page-title-area.bg-4 {
+  background-image: url(../../assets/img/offre-back.jpg);
+}
+
+.page-title-area.bg-5 {
+  background-image: url(../../assets/img/page-bg/5.jpg);
+}
+
+.page-title-area.bg-6 {
+  background-image: url(../../assets/img/page-bg/6.jpg);
+}
+
+.page-title-area.bg-7 {
+  background-image: url(../../assets/img/page-bg/7.jpg);
+}
+
+.page-title-area.bg-8 {
+  background-image: url(../../assets/img/page-bg/8.jpg);
+}
+
+.page-title-area.bg-9 {
+  background-image: url(../../assets/img/page-bg/9.jpg);
+}
+
+.page-title-area.bg-10 {
+  background-image: url(../../assets/img/page-bg/10.jpg);
+}
+
+.page-title-area.bg-11 {
+  background-image: url(../../assets/img/page-bg/11.jpg);
+}
+
+.page-title-area.bg-12 {
+  background-image: url(../../assets/img/page-bg/12.jpg);
+}
+
+.page-title-area.bg-13 {
+  background-image: url(../../assets/img/page-bg/13.jpg);
+}
+
+.page-title-area.bg-14 {
+  background-image: url(../../assets/img/page-bg/14.jpg);
+}
+
+.page-title-area.bg-15 {
+  background-image: url(../../assets/img/page-bg/15.jpg);
+}
+
+.page-title-area.bg-16 {
+  background-image: url(../../assets/img/page-bg/16.jpg);
+}
+
+.page-title-area.bg-17 {
+  background-image: url(../../assets/img/page-bg/17.jpg);
+}
+
+.page-title-area.bg-18 {
+  background-image: url(../../assets/img/page-bg/18.jpg);
+}
+
+.page-title-area.bg-19 {
+  background-image: url(../../assets/img/page-bg/19.jpg);
+}
+
+.page-title-area.bg-20 {
+  background-image: url(../../assets/img/page-bg/20.jpg);
+}
+
+.page-title-area.bg-21 {
+  background-image: url(../../assets/img/page-bg/21.jpg);
+}
+
+.page-title-area.bg-22 {
+  background-image: url(../../assets/img/page-bg/22.jpg);
+}
+
+.page-title-area.bg-23 {
+  background-image: url(../../assets/img/page-bg/23.jpg);
+}
+
+.page-title-area.bg-24 {
+  background-image: url(../../assets/img/page-bg/24.jpg);
+}
+
+.page-title-area .page-title-content {
+  margin-top: -10px;
+}
+
+.page-title-area .page-title-content h2 {
+  margin-bottom: 15px;
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.page-title-area .page-title-content ul {
+  padding-left: 0;
+  list-style-type: none;
+  margin-top: 10px;
+  margin-bottom: -5px;
+}
+
+.page-title-area .page-title-content ul li {
+  display: inline-block;
+  position: relative;
+  font-size: 15px;
+  font-weight: 500;
+  padding-right: 15px;
+  margin-left: 15px;
+  color: #ffffff;
+  font-family: "Open Sans", sans-serif;
+  text-transform: uppercase;
+}
+
+.page-title-area .page-title-content ul li::before {
+  content: "";
+  position: absolute;
+  top: 5px;
+  right: -3px;
+  background-color: #ffffff;
+  width: 1px;
+  height: 15px;
+  -webkit-transform: rotate(25deg);
+  transform: rotate(25deg);
+}
+
+.page-title-area .page-title-content ul li:last-child::before {
+  display: none;
+}
+
+.page-title-area .page-title-content ul li a {
+  color: #ffffff;
+}
+
+.page-title-area .page-title-content ul li a:hover {
+  color: #e2a850;
+}
+
+.page-title-area .page-title-content ul .active {
+  color: #e2a850;
+}
