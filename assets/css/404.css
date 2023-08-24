@@ -1,0 +1,53 @@
+/*
+404 Error Area Style
+=====================================================*/
+.error-area {
+    padding: 50px 0;
+    height: 100vh;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    background-color: #ffffff;
+  }
+  
+  .error-area .error-content-wrap {
+    z-index: 1;
+    position: relative;
+  }
+  
+  .error-area .error-content-wrap h1 {
+    font-size: 300px;
+    line-height: 1;
+    color: #272b2b;
+  }
+  
+  .error-area .error-content-wrap h1 .a {
+    -webkit-animation: bounce 3s infinite linear;
+    animation: bounce 3s infinite linear;
+    display: inline-block;
+  }
+  
+  .error-area .error-content-wrap h1 .red {
+    color: #b5a489;
+    -webkit-animation: bounce 2s infinite linear;
+    animation: bounce 2s infinite linear;
+    display: inline-block;
+  }
+  
+  .error-area .error-content-wrap h1 .b {
+    -webkit-animation: bounce 3s infinite linear;
+    animation: bounce 3s infinite linear;
+    display: inline-block;
+  }
+  
+  .error-area .error-content-wrap h3 {
+    margin: 30px 0 0;
+    position: relative;
+    color: #b5a489;
+  }
+  
+  .error-area .error-content-wrap p {
+    margin: 20px 0 20px;
+    font-size: 19px;
+    color: #272b2b;
+  }
