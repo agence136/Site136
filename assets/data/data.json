@@ -89,7 +89,8 @@
             "date": "27 novembre 2020",
             "title": "WEB TV MAZARS : UN PREMIER PRIX POUR 136 !",
             "extrait": "Il y a quelques jours, nous recevions le COM-ENT d’argent du prix de la communication disruptive / impertinente pour TheNextCFO, le web TV que nous avons pensée et produite pour le Groupe Mazars. C’est une grande fierté pour nous et nos équipes qui sont récompensées du travail acharnés qu’ils ont livré toute l’année pour arriver à…",
-            "article": ""
+            "article": "Il y a quelques jours, nous recevions le COM-ENT d’argent du prix de la communication disruptive / impertinente pour TheNextCFO, le web TV que nous avons pensée et produite pour le Groupe Mazars. C’est une grande fierté pour nous et nos équipes qui sont récompensées du travail acharnés qu’ils ont livré toute l’année pour arriver à produire du contenu de qualité en quantité. The Next CFO, une web TV qui sort les décideurs financiers internationaux du back office et les met en lumière. Sept programmes modernes et originaux plongent dans la définition changeante de ce que signifie être un directeur financier. « Pour les directeurs financiers » parce que le contenu est conçu pour intriguer et informer à la fois les principaux décideurs financiers et ceux qui espèrent prendre leur place. « Par les directeurs financiers » parce que les directeurs financiers eux-mêmes sont les conteurs – le public entend directement d’eux parler de leurs préoccupations les plus urgentes, de leurs passions et de leur vision de l’avenir. Les nouvelles technologies menacent de bouleverser les tâches fondamentales de la finance d’entreprise. The Next CFO vise à aider les directeurs financiers à assumer leur rôle en évolution et à inspirer la prochaine génération de professionnels de la finance à poursuivre dans cette voie. Conçue pour imiter les plates-formes de streaming vidéo populaires, la Web TV propose sept programmes et des témoignages sincères de directeurs financiers du monde entier.",
+            "quote": "The Next CFO est une Web TV et un média unique en son genre pour les CFO, par les CFO."
         },
         {
             "id": 2,
@@ -97,13 +98,14 @@
             "date": "30 août 2020",
             "title": "Cas client | Quand Mazars devient un média",
             "extrait": "Ton décalé, images soignées, fond… profond : The Next CFO, la chaine TV conçue par Mazars et 136 est devenue en quelques semaines un vrai media à destination des dirigeants financiers. Retour sur une opération de vidéo marketing originale. Vous pensez que la finance est la spécialité la plus soporifique d’une entreprise ? The Next…",
-            "article": ""
+            "article": "Ton décalé, images soignées, fond… profond : The Next CFO, la chaine TV conçue par Mazars et 136 est devenue en quelques semaines un vrai media à destination des dirigeants financiers. Retour sur une opération de vidéo marketing originale. Vous pensez que la finance est la spécialité la plus soporifique d’une entreprise ? The Next CFO va vous faire changer d’avis. Cette WebTV, lancée par Mazars en mai 2018, conçue avec 136 et diffusée grâce à la plateforme vidéo de Novastream dépoussière sérieusement l’image de profession. Ce décalage assumé dans la façon d’aborder les grandes transformations de ce métier s’explique en grande partie par le positionnement de Mazars.Spécialisé dans l’audit, le conseil ainsi que les services comptables, fiscaux et juridiques, Mazars est présent dans 86 pays, compte 20 000 collaborateurs et 980 associés. « Nous sommes un challenger dans notre secteur d’activité, et avons décidé d’adopter un storytelling différent et différenciant », explique Jessica Wheaton, International Communication Officer au sein du Groupe Mazars. Le Directeur Financier est l’interlocuteur n°1 de Mazars dans les entreprises. Or la figure du CFO se prête très bien à une approche innovante en communication, il est assez peu mis en avant, voire pâtit d’une image assez brouillée et conservatrice. The Next CFO vise donc d’une part à donner une « voix » à ces professionnels, et d’autre part à redorer un peu leur blason »",
+            "quote": "UN STORYTELLING DÉCALÉ ET CIBLÉ"
         }
     ],
     "latest": [
         {
             "id": 1,
-            "img": "../img/blog/blog1.png",
+            "img": "assets/img/blog/blog1.png",
             "date": "27 novembre 2020",
             "title": "WEB TV MAZARS : UN PREMIER PRIX POUR 136 !",
             "extrait": "Il y a quelques jours, nous recevions le COM-ENT d’argent du prix de la communication disruptive / impertinente pour TheNextCFO, le web TV que nous avons pensée et produite pour le Groupe Mazars. C’est une grande fierté pour nous et nos équipes qui sont récompensées du travail acharnés qu’ils ont livré toute l’année pour arriver à…",
@@ -111,7 +113,7 @@
         },
         {
             "id": 2,
-            "img": "../img/blog/blog2.png",
+            "img": "assets/img/blog/blog2.png",
             "date": "30 août 2020",
             "title": "Cas client | Quand Mazars devient un média",
             "extrait": "Ton décalé, images soignées, fond… profond : The Next CFO, la chaine TV conçue par Mazars et 136 est devenue en quelques semaines un vrai media à destination des dirigeants financiers. Retour sur une opération de vidéo marketing originale. Vous pensez que la finance est la spécialité la plus soporifique d’une entreprise ? The Next…",
