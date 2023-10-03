@@ -435,7 +435,7 @@ Get In Touch Area Style
   width: 100%;
   height: 100%;
   /* background-color: rgba(0, 0, 0, 0.8); */
-  background-color: #b5a489;
+  background-color: rgba(0, 0, 0, 0.8);
   z-index: -1;
 }
 
@@ -812,7 +812,8 @@ Partner Area Style
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #b5a489;
+  background-color:
+  rgba(0, 0, 0, 0.8);
   z-index: -1;
 }
 
