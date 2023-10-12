@@ -543,7 +543,7 @@ Latest Trailer Area Style
 }
 
 .latest-trailer-item .latest-video-content {
-  font-family: "Open Sans", sans-serif;
+  
   text-align: center;
   position: absolute;
   bottom: 30px;
@@ -601,7 +601,7 @@ Latest Trailer Area Style
 .latest-trailer-item .latest-video-content-3 .text-1 {
   color: #fefa93;
   font-size: 14px;
-  font-family: "Open Sans", sans-serif;
+ 
   position: absolute;
   top: 30px;
   text-align: center;
@@ -617,7 +617,7 @@ Latest Trailer Area Style
   left: 0;
   right: 0;
   font-size: 55px;
-  font-family: "Open Sans", sans-serif;
+ 
   text-transform: uppercase;
   color: #1c2c09;
 }
@@ -625,7 +625,7 @@ Latest Trailer Area Style
 .latest-trailer-item .latest-video-content-3 .text-3 {
   position: absolute;
   bottom: 75px;
-  font-family: "Open Sans", sans-serif;
+  
   text-transform: uppercase;
   color: #ffffff;
   -webkit-transform: rotate(-90deg);
@@ -636,7 +636,7 @@ Latest Trailer Area Style
 .latest-trailer-item .latest-video-content-3 .text-4 {
   position: absolute;
   bottom: 30px;
-  font-family: "Open Sans", sans-serif;
+  
   text-transform: uppercase;
   color: #ffffff;
   left: 0;
@@ -653,7 +653,7 @@ Latest Trailer Area Style
   z-index: 1;
   text-transform: uppercase;
   color: #6c6d70;
-  font-family: "Open Sans", sans-serif;
+
   font-weight: 700;
   font-size: 30px;
 }
@@ -666,7 +666,7 @@ Latest Trailer Area Style
   text-align: center;
   font-size: 60px;
   color: #ffffff;
-  font-family: "Open Sans", sans-serif;
+  
 }
 
 .latest-trailer-item .latest-video-content-4 h3 span {
@@ -680,7 +680,7 @@ Latest Trailer Area Style
   right: 0;
   left: 0;
   text-align: center;
-  font-family: "Open Sans", sans-serif;
+
   text-transform: uppercase;
   color: #514f4a;
 }
@@ -734,7 +734,6 @@ Blog Area Style
 .single-blog .blog-content ul {
   line-height: 1;
   margin-bottom: 15px;
-  font-family: "Open Sans", sans-serif;
 }
 
 .single-blog .blog-content ul li {
