@@ -4,8 +4,15 @@ Default Style
 
 body {
   font-size: 15px;
-  font-family: "Oswald", sans-serif;
   color: #676a6a;
+}
+
+h1, h2, h3, h4, h5, h6, span, a{
+  font-family: 'Oswald', sans-serif;
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
 }
 
 a {
@@ -71,7 +78,7 @@ h3 {
 p {
   font-size: 16px;
   margin-bottom: 15px;
-  font-family: "Open Sans", sans-serif;
+
   line-height: 1.8;
 }
 
@@ -99,7 +106,7 @@ ul {
   font-size: 13px;
   padding: 10px 20px;
   width: 100%;
-  font-family: "Open Sans", sans-serif;
+
 }
 
 .form-control::-webkit-input-placeholder {
@@ -377,7 +384,11 @@ Nav Area Style
 }
 
 .navbar-area .main-nav nav .navbar-nav .nav-item a.active {
-  color: #272b2b;
+  color: #b5a489;
+}
+
+.fa-plug{
+  color:  #b5a489;
 }
 
 .navbar-area .main-nav nav .navbar-nav .nav-item:hover ul {
@@ -558,7 +569,7 @@ Footer Top Area Style
   border: none;
   border-bottom: 1px solid #ffffff;
   padding: 0;
-  font-family: "Open Sans", sans-serif;
+ 
   color: #ffffff;
 }
 
@@ -623,7 +634,7 @@ Footer Top Area Style
 
 .single-widget .address li {
   color: #ffffff;
-  font-family: "Open Sans", sans-serif;
+  
   position: relative;
   padding-left: 30px;
   margin-bottom: 20px;
@@ -650,7 +661,7 @@ Footer Top Area Style
 
 .single-widget .additional-link li {
   color: #ffffff;
-  font-family: "Open Sans", sans-serif;
+
   margin-bottom: 20px;
 }
 
@@ -723,7 +734,7 @@ Footer Bottom Style
 #validator-newsletter-2 {
   color: red;
   margin-top: 10px;
-  font-family: "Open Sans", sans-serif;
+
 }
 
 /*
@@ -813,7 +824,7 @@ Sidebar Area Style
 }
 
 .sidebar-modal .contact-us ul li {
-  font-family: "Open Sans", sans-serif;
+  
   position: relative;
   padding-left: 30px;
   margin-bottom: 20px;
