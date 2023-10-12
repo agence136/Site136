@@ -214,6 +214,7 @@ Hero Slider Area Style
   color: #ffffff;
   position: relative;
   padding-right: 70px;
+  font-family: "Oswald", sans-serif;
 }
 
 .hero-slider-area .social-wrap ul li.follow-us::before {
