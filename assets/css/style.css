@@ -75,10 +75,9 @@ h3 {
   vertical-align: middle;
 }
 
-p {
+p{
   font-size: 16px;
   margin-bottom: 15px;
-
   line-height: 1.8;
 }
 
@@ -790,7 +789,7 @@ Sidebar Area Style
   background-color: #272b2b;
   color: #ffffff;
   border-radius: 0;
-  float: right;
+  float:right;
   text-align: center;
 }
 
