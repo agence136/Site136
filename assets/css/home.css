@@ -250,6 +250,7 @@ Hero Slider Area Style
 
 .hero-slider-item.bg-1 {
   background-image: url(../../assets/img/slider-img/slide1.png);
+
 }
 
 .hero-slider-item.bg-2 {
@@ -257,7 +258,7 @@ Hero Slider Area Style
 }
 
 .hero-slider-item.bg-3 {
-  background-image: url(../../assets/img/slider-img/slide1.png);
+  background-image: url(../../assets/img/slider-img/slide4.jpg);
 }
 
 /* .hero-slider-item.bg-4 {
