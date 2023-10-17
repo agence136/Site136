@@ -251,10 +251,15 @@ Hero Slider Area Style
 .hero-slider-item.bg-1 {
   background-image: url(../../assets/img/slider-img/slide1.png);
 
+
+
 }
 
+
+
+
 .hero-slider-item.bg-2 {
-  background-image: url(../../assets/img/slider-img/slide2.png);
+  background-image: url(../../assets/img/slider-img/6.jpg);
 }
 
 .hero-slider-item.bg-3 {
@@ -346,7 +351,10 @@ About Area Style
 
 .about-content-wrap .about-img {
   display: none;
+
 }
+
+
 
 /*
   Video Created Area Style
