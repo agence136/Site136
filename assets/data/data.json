@@ -2,7 +2,7 @@
     "production": [
         {
             "id": "p1",
-        "type":"video",
+            "type": "video",
             "thumbnail": "exemple.png",
             "client": "Europe 1",
             "tag": "video",
@@ -12,7 +12,7 @@
         },
         {
             "id": "p2",
-            "type":"video",
+            "type": "video",
             "thumbnail": "exemple.png",
             "client": "Mazars",
             "tag": "video",
@@ -22,7 +22,7 @@
         },
         {
             "id": "p3",
-            "type":"video",
+            "type": "video",
             "thumbnail": "exemple.png",
             "client": "Mazars",
             "tag": "video",
@@ -32,7 +32,7 @@
         },
         {
             "id": "p4",
-            "type":"video",
+            "type": "video",
             "thumbnail": "exemple.png",
             "client": "Mazars",
             "tag": "motion design",
@@ -42,7 +42,7 @@
         },
         {
             "id": "p5",
-            "type":"video",
+            "type": "video",
             "thumbnail": "exemple.png",
             "client": "Mazars",
             "tag": "série",
@@ -52,7 +52,7 @@
         },
         {
             "id": "p6",
-            "type":"video",
+            "type": "video",
             "thumbnail": "exemple.png",
             "client": "Mazars",
             "tag": "captation",
@@ -62,7 +62,7 @@
         },
         {
             "id": "p7",
-            "type":"photo",
+            "type": "photo",
             "thumbnail": "exemple.png",
             "client": "GK Pro",
             "tag": "site internet",
@@ -73,14 +73,14 @@
         },
         {
             "id": "p8",
-            "type":"photo",
+            "type": "photo",
             "thumbnail": "exemple.png",
             "client": "Fondation Raymond Devos",
             "tag": "site internet",
             "title": "Site de la Maison-Musée Raymond Devos",
-            "description": "Fondée en 1984 la société GK PROFESSIONAL conçoit, fabrique, commercialise et distribue des équipements destinés aux forces de l’ordre et de la sécurité en France ainsi qu’à l’étranger. Son expérience de plus de 30 ans ainsi que son savoir-faire lui permettent de maîtriser son activité depuis la conception des produits à la distribution auprès de ses clients. ",
-            "link": "https://gkpro.fr/",
-            "photo": ""
+            "description": "La Fondation Raymond Devos, souhaitée par l’artiste, a été créée et reconnue d’utilité publique par décret du 14 janvier 2009. ",
+            "link": "https://www.raymond-devos.org/",
+            "photo": "frd-site-internet.png"
         }
     ],
     "recent-blog": [

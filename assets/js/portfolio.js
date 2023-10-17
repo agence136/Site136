@@ -64,7 +64,10 @@ fetch("../data/data.json")
                     `;
                 } else if (production[i].type === "photo") {
                     content = `
-                        <img src="../img/site-internet/${production[i].photo}" alt="${production[i].title}">
+                    
+                    <a  href="${production[i].link}">
+                       <img src="../img/site-internet/${production[i].photo}"   alt="${production[i].title}">
+                    </a>
                     `;
                 }
 
