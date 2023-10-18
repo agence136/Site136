@@ -249,15 +249,8 @@ Hero Slider Area Style
 }
 
 .hero-slider-item.bg-1 {
-  background-image: url(../../assets/img/slider-img/slide1.png);
- 
-
-
-
+  background-image: url(../../assets/img/about-img.jpg);
 }
-
-
-
 
 .hero-slider-item.bg-2 {
   background-image: url(../../assets/img/slider-img/6.jpg);
@@ -304,10 +297,11 @@ About Area Style
 ======================================================*/
 
 .about-content-wrap {
-  background-image: url(../../assets/img/about-img.jpg);
+  background-image: url(../../assets/img/hotel-reception-counter-desk-with-service-bell-2023-07-17-22-55-20-utc.jpg);
   background-position: right;
   background-repeat: no-repeat;
   height: 522px;
+
 }
 
 .about-content-wrap .about-content {
