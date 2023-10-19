@@ -249,11 +249,11 @@ Hero Slider Area Style
 }
 
 .hero-slider-item.bg-1 {
-  background-image: url(../../assets/img/about-img.jpg);
+  background-image: url(../../assets/img/agence.png);
 }
 
 .hero-slider-item.bg-2 {
-  background-image: url(../../assets/img/slider-img/6.jpg);
+  background-image: url(../../assets/img/about-img.jpg);
 }
 
 .hero-slider-item.bg-3 {
@@ -354,8 +354,7 @@ About Area Style
 /*
   Video Created Area Style
   ======================================================*/
-.video-created-area {
-  /* background-image: url(../../assets/img/video-created-bg.jpg); */
+/* .video-created-area {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -420,8 +419,32 @@ About Area Style
   right: -215px;
   top: 40px;
   margin-bottom: 0;
+} */
+
+
+
+.counter-area{
+  background-color:#b5a489;
+  color:#FFFFFF;
 }
 
+.pb-70 {
+  padding: 70px;
+}
+
+.counter-area h2{
+  text-align:center;
+  color:#FFFFFF;
+}
+
+.counter-area p{
+  text-align:center;
+}
+
+
+.odometer-value ,.odometer-formatting-mark, .traget{
+  color:#FFFFFF;
+}
 /*
 Get In Touch Area Style
 ======================================================*/
