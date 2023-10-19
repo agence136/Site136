@@ -302,6 +302,7 @@ About Area Style
   background-repeat: no-repeat;
   height: 522px;
 
+
 }
 
 .about-content-wrap .about-content {
@@ -349,6 +350,12 @@ About Area Style
 
 }
 
+/* About*/
+#comciergerie{
+  height:100vh;
+  
+
+}
 
 
 /*
@@ -743,7 +750,7 @@ Latest Trailer Area Style
 Blog Area Style
 ======================================================*/
 
-.single-blog {
+/* .single-blog {
   margin-bottom: 30px;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
@@ -819,7 +826,7 @@ Blog Area Style
 
 .single-blog:hover .blog-content a h3 {
   color: #272b2b;
-}
+} */
 
 /*
 Partner Area Style

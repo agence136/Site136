@@ -1,8 +1,8 @@
-/*
+/* 
 Blog Area Style
 ======================================================*/
 
-.single-blog {
+/* .single-blog {
   margin-bottom: 30px;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
@@ -84,7 +84,7 @@ Blog Area Style
 /*
 Blog Details Area CSS
 ======================================================*/
-.blog-details-wrap .blog-top-content-wrap img {
+/* .blog-details-wrap .blog-top-content-wrap img {
   margin-bottom: 30px;
 }
 
@@ -369,4 +369,4 @@ Blog Details Area CSS
 .blog-details-sidebar-wrap .tags-wrap ul li a:hover {
   -webkit-transform: translateY(-2px);
   transform: translateY(-2px);
-}
+}  */
