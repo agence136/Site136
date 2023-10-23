@@ -7,16 +7,23 @@ body {
   color: black;
 }
 
-h1, h2, h3, h4, h5, h6, span, a{
-  font-family: 'Oswald', sans-serif;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+span,
+a {
+  font-family: "Oswald", sans-serif;
 }
 
- .fa-bell-concierge{
-color:#b5a489;
+.fa-bell-concierge {
+  color: #b5a489;
 }
 
-p{
-  font-family: 'Montserrat', sans-serif;
+p {
+  font-family: "Montserrat", sans-serif;
 }
 
 a {
@@ -79,7 +86,7 @@ h3 {
   vertical-align: middle;
 }
 
-p{
+p {
   font-size: 16px;
   margin-bottom: 15px;
   line-height: 1.8;
@@ -109,7 +116,6 @@ ul {
   font-size: 13px;
   padding: 10px 20px;
   width: 100%;
-
 }
 
 .form-control::-webkit-input-placeholder {
@@ -163,7 +169,6 @@ textarea.form-control {
 .pt-70 {
   padding-top: 70px;
 }
-
 
 .mt-30 {
   margin-top: 30px;
@@ -386,8 +391,8 @@ Nav Area Style
   color: #b5a489;
 }
 
-.fa-plug{
-  color:  #b5a489;
+.fa-plug {
+  color: #b5a489;
 }
 
 .navbar-area .main-nav nav .navbar-nav .nav-item:hover ul {
@@ -481,7 +486,8 @@ What We Do Area Style
 .what-we-do-item {
   text-align: center;
   /* border: 1px dashed #676a6a; */
-  box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px,
+    rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
   padding: 20px;
   margin-bottom: 30px;
   -webkit-transition: all 0.5s;
@@ -569,7 +575,7 @@ Footer Top Area Style
   border: none;
   border-bottom: 1px solid #ffffff;
   padding: 0;
- 
+
   color: #ffffff;
 }
 
@@ -634,7 +640,7 @@ Footer Top Area Style
 
 .single-widget .address li {
   color: #ffffff;
-  
+
   position: relative;
   padding-left: 30px;
   margin-bottom: 20px;
@@ -734,7 +740,6 @@ Footer Bottom Style
 #validator-newsletter-2 {
   color: red;
   margin-top: 10px;
-
 }
 
 /*
@@ -791,7 +796,7 @@ Sidebar Area Style
   background-color: #272b2b;
   color: #ffffff;
   border-radius: 0;
-  float:right;
+  float: right;
   text-align: center;
 }
 
@@ -824,7 +829,6 @@ Sidebar Area Style
 }
 
 .sidebar-modal .contact-us ul li {
-  
   position: relative;
   padding-left: 30px;
   margin-bottom: 20px;
@@ -1448,7 +1452,13 @@ Page-navigation Area Style*/
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgba(0, 0, 0, 0.7)));
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(transparent),
+    to(rgba(0, 0, 0, 0.7))
+  );
   background-image: linear-gradient(transparent, rgba(0, 0, 0, 0.7));
 }
 
@@ -1535,9 +1545,8 @@ Page-navigation Area Style*/
 
 .single-blog .blog-content ul li:first-child i {
   margin-left: 0;
-}.blog-area-two .single-blog.bg-1 
-
-.single-blog .blog-content ul li a {
+}
+.blog-area-two .single-blog.bg-1 .single-blog .blog-content ul li a {
   color: #676a6a;
 }
 
@@ -1561,7 +1570,7 @@ Page-navigation Area Style*/
 
 .single-blog:hover {
   -webkit-transform: translateY(-5px);
-          transform: translateY(-5px);
+  transform: translateY(-5px);
 }
 
 .single-blog:hover .blog-content a h3 {
