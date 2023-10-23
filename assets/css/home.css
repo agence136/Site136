@@ -347,8 +347,20 @@ About Area Style
 
 /* About*/
 #comciergerie {
+ 
   height: 100vh;
+
 }
+
+#offre{
+  height:100vh;
+}
+
+#prestations{
+  height:100vh;
+}
+
+
 
 /*
   Video Created Area Style
