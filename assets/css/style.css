@@ -849,7 +849,7 @@ Sidebar Area Style
   display: block;
 }
 
-.sidebar-modal .sidebar-instagram-feed {
+.sidebar-modal, .sidebar-instagram-feed, .sidebar-follow-us {
   margin-bottom: 30px;
 }
 
