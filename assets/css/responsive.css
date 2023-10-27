@@ -883,6 +883,16 @@
   .modal-newsletter-area .modal-newsletter-wrap .newsletter-form .agree-label {
     text-align: center;
   }
+  #comciergerie{
+    height:auto;
+  }
+  #offre{
+    height:auto;
+    padding:50px 10px 10px 10px;
+  }
+  #prestations{
+    height:auto;
+  }
 }
 @media only screen and (max-width: 414px) {
   .logo-footer {
