@@ -1432,6 +1432,18 @@ Page-navigation Area Style*/
   border: none;
 }
 
+.bio-data ul{
+  padding-left: 100px;
+  color: #676a6a;
+  font-family: "Montserrat";
+}
+
+.bio-data .row{
+margin-bottom:50px;
+}
+
+
+ 
 
 
 

@@ -893,6 +893,10 @@
   #prestations{
     height:auto;
   }
+  .bio-data ul{
+    padding-left: 0px;
+    
+  }
 }
 @media only screen and (max-width: 414px) {
   .logo-footer {
