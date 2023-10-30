@@ -18,8 +18,9 @@ a {
   font-family: "Oswald", sans-serif;
 }
 
-.fa-bell-concierge {
+.fa-bell-concierge::before {
   color: #b5a489;
+  font-size: xx-large;
 }
 
 p {
