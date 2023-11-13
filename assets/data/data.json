@@ -1,142 +1,38 @@
 {
-    "production": [
+    "prestation": [
         {
             "id": "p1",
-            "type": "video",
-            "thumbnail": "exemple.png",
-            "client": "Europe 1",
-            "tag": "video",
-            "title": "Nouveaux locaux d'Europe 1",
-            "description": "Europe 1 a récemment changé de locaux. Le groupe nous a demandé de capter l'énergie de la première journée de travail dans ce nouveau lieu afin d'en faire un film, diffusé dès le lendemain sur toutes les plateformes. Nous avons réalisé un clip très dynamique intégrant des moments de vie, de complicité et des témoignages de ceux qui font cette radio.",
-            "vimeo": "https://player.vimeo.com/video/302930711?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+            "image": "prestations/gk.webp",
+            "client": "GK",
+            "tag": "Site internet",
+            "title": "136 au chevet du nouveau site internet de l'équipementier GK PRO.",
+            "description": "L’équipementier des forces de l'ordre GK, fait confiance à 136 pour reconstruire son site internet. Une opération réussie, qui répond complètement, à court et long terme, aux objectifs fixés par GK Pro.",
+            "image-prestation": "21GK-campaign-look8-7-1.webp",
+            "article-introduction": "L’équipementier des forces de l'ordre GK, fait confiance à 136 pour reconstruire son site internet. Une opération réussie, qui répond complètement, à court et long terme, aux objectifs fixés par GK Pro.",
+            "article-title": "Répondre aux enjeux posés par GK : une question d'anticipation pour 136.",
+            "article-paragraphe": "C’est avec beaucoup de fierté que 136 vient apporter des solutions stratégiques à GK, pour l’aider dans la réalisation de ses nouveaux objectifs commerciaux : devenir le leader français et européen de l’équipementier des forces de l’ordres.",
+            "article-title-1": "La fusion des trois anciens sites internet de GK par 136.",
+            "article-paragraphe-1": "En réponse à GK, nous prévoyons la fusion des trois sites préexistants en un modèle convenant à l’équipementier haut de gamme et correspondant à sa nouvelle charte. Nous proposons un modèle de site internet épuré, simple d’utilisation et agréable visuellement. Par conséquent, les produits de GK sont mis en avant et les vente numériques augmentent. À côté, les 38 ans d’histoire de l’équipementier sont valorisés, tout comme leur savoir-faire dans le domaine.Une belle réussite, dont nous nous réjouissons !",
+            "article-title-2": "Construire le site internet de GK en s'implantant au coeur de leurs équipes.",
+            "article-paragraphe-2": "La refonte d’un site internet est permise par le soin qu’à pris 136 dans ses échanges avec les membres de GK. L’important pour nous est de recueillir leur précieux avis dans ce chantier. C’est pour cela que 136 s’est implanté aux côtés de GK, profitant de notre modèle embarqué. Une vraie qualité, qui nous permet de faire preuve d’un sens aiguisé de l’observation, pour identifier les besoins qui doivent être intégrés dans le nouveau site internet. Nous les combinons à nos prévisions qui nous permettent de travailler dans des délais serrés."
         },
         {
             "id": "p2",
-            "type": "video",
-            "thumbnail": "exemple.png",
-            "client": "Mazars",
-            "tag": "video",
-            "title": "MazarsLive!",
-            "description": "Mazars souhaitait communiquer sur sa nouvelle application mobile MazarsLive! Nous les avons accompagnés dans leur démarche, du choix du support à la réalisation d’un motion design, en passant par l’écriture du script. 136 a réalisé trois films différents pour Mazars, destinés à trois cibles distinctes.",
-            "vimeo": "https://player.vimeo.com/video/252877803?h=07edb26097&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
-        },
-        {
-            "id": "p3",
-            "type": "video",
-            "thumbnail": "exemple.png",
-            "client": "Mazars",
-            "tag": "video",
-            "title": "60 second challenge",
-            "description": "Grâce à cette série de courte vidéos diffusées sur les différents réseaux sociaux, le Groupe Mazars a montré tout son savoir faire dans les domaines d’expertise de demain : robotisation, cryptomonnaies, intelligence artificielle… Le challenge ? Expliquer les enjeux majeurs d’un thème clé en 60 secondes.",
-            "vimeo": "https://player.vimeo.com/video/301901291?h=af0898bb43&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
-        },
-        {
-            "id": "p4",
-            "type": "video",
-            "thumbnail": "exemple.png",
-            "client": "Mazars",
-            "tag": "motion design",
-            "title": "Film institutionnel Mazars",
-            "description": "Mazars France a besoin de communiquer sur ses chiffres et ses domaines d’activité auprès de ses clients, de ses prospects, de ses collaborateurs et de ses futurs employés.Nous avons proposé à Mazars de réaliser un motion-design pour mettre toutes ces informations en image. L’idée était de réaliser une vidéo courte et impactante qui représente bien les valeurs de Mazars, une entreprise globale, innovante et dans l’air du temps.",
-            "vimeo": "https://player.vimeo.com/video/271256214?h=11291c108f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
-        },
-        {
-            "id": "p5",
-            "type": "video",
-            "thumbnail": "exemple.png",
-            "client": "Mazars",
-            "tag": "série",
-            "title": "The Next CFO – How Do You Spend It?",
-            "description": "L’un des grands enjeux de Mazars est de se positionner en expert dans ses domaines d’activité. Pour notre client, nous avons développé de A à Z une web-TV appelée The Next CFO, un Netflix de la finance, dans laquelle nous abordons toutes les problématiques actuelles du monde la finance. Une des sept séries que nous avons développées s’immisce dans la vie personnelle des directeurs financiers. Une autre façon de voir le monde méconnu de la finance, ainsi que les femmes et les hommes qui le compose.",
-            "vimeo": "https://player.vimeo.com/video/299871330?h=992f7b68fa&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
-        },
-        {
-            "id": "p6",
-            "type": "video",
-            "thumbnail": "exemple.png",
-            "client": "Mazars",
-            "tag": "captation",
-            "title": "Doing Business in Morocco",
-            "description": "Mazars organise, en partenariat avec des instances françaises et étrangères, des événements ayant pour thème le business dans des pays étrangers. 136 s’occupe de réaliser les films rétrospectifs de ces événements, diffusés en interne et sur les réseaux sociaux de Mazars. Nous avons aussi proposé des formats vignettes adaptés aux réseaux sociaux pour compléter cette production.",
-            "vimeo": "https://player.vimeo.com/video/275296182?h=1651a26be0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
-        },
-        {
-            "id": "p7",
-            "type": "photo",
-            "thumbnail": "exemple.png",
-            "client": "GK Pro",
-            "tag": "site internet",
-            "title": "Site internet de GK Pro",
-            "description": "Fondée en 1984 la société GK PROFESSIONAL conçoit, fabrique, commercialise et distribue des équipements destinés aux forces de l’ordre et de la sécurité en France ainsi qu’à l’étranger. Son expérience de plus de 30 ans ainsi que son savoir-faire lui permettent de maîtriser son activité depuis la conception des produits à la distribution auprès de ses clients. ",
-            "link": "https://gkpro.fr/",
-            "photo": "gk-site-internet.png"
-        },
-        {
-            "id": "p8",
-            "type": "photo",
-            "thumbnail": "exemple.png",
-            "client": "Fondation Raymond Devos",
-            "tag": "site internet",
-            "title": "Site de la Maison-Musée Raymond Devos",
-            "description": "La Fondation Raymond Devos, souhaitée par l’artiste, a été créée et reconnue d’utilité publique par décret du 14 janvier 2009. ",
-            "link": "https://www.raymond-devos.org/",
-            "photo": "frd-site-internet.png"
-        }
-    ],
-    "recent-blog": [
-        {
-            "id": 1,
-            "img": "../img/blog/blog1.png",
-            "date": "27 novembre 2020",
-            "title": "WEB TV MAZARS : UN PREMIER PRIX POUR 136 !",
-            "extrait": "Ton décalé, images soignées, fond… profond : The Next CFO, la chaine TV conçue par Mazars et 136 est devenue en quelques semaines un vrai media à destination des dirigeants financiers...",
-            "article": "Ton décalé, images soignées, fond… profond : The Next CFO, la chaine TV conçue par Mazars et 136 est devenue en quelques semaines un vrai media à destination des dirigeants financiers. Retour sur une opération de vidéo marketing originale. Vous pensez que la finance est la spécialité la plus soporifique d’une entreprise ? The Next CFO va vous faire changer d’avis. Cette WebTV, lancée par Mazars en mai 2018, conçue avec 136 et diffusée grâce à la plateforme vidéo de Novastream dépoussière sérieusement l’image de la profession."
-        },
-        {
-            "id": 2,
-            "img": "../img/blog/blog2.png",
-            "date": "30 août 2020",
-            "title": "Cas client | Quand Mazars devient un média",
-            "extrait": "Ton décalé, images soignées, fond… profond : The Next CFO, la chaine TV conçue par Mazars et 136 est devenue en quelques semaines un vrai media à destination des dirigeants financiers. Retour sur une opération de vidéo marketing originale. Vous pensez que la finance est la spécialité la plus soporifique d’une entreprise ? The Next…,",
-            "article": "Ton décalé, images soignées, fond… profond : The Next CFO, la chaine TV conçue par Mazars et 136 est devenue en quelques semaines un vrai media à destination des dirigeants financiers. Retour sur une opération de vidéo marketing originale. Vous pensez que la finance est la spécialité la plus soporifique d’une entreprise ? The Next CFO va vous faire changer d’avis. Cette WebTV, lancée par Mazars en mai 2018, conçue avec 136 et diffusée grâce à la plateforme vidéo de Novastream dépoussière sérieusement l’image de la profession."
-        }
-    ],
-    "blog": [
-        {
-            "id": 1,
-            "img": "../img/blog/blog1.png",
-            "date": "27 novembre 2020",
-            "title": "WEB TV MAZARS : UN PREMIER PRIX POUR 136 !",
-            "extrait": "Il y a quelques jours, nous recevions le COM-ENT d’argent du prix de la communication disruptive / impertinente pour TheNextCFO, le web TV que nous avons pensée et produite pour le Groupe Mazars. C’est une grande fierté pour nous et nos équipes qui sont récompensées du travail acharnés qu’ils ont livré toute l’année pour arriver à…",
-            "article": "Il y a quelques jours, nous recevions le COM-ENT d’argent du prix de la communication disruptive / impertinente pour TheNextCFO, le web TV que nous avons pensée et produite pour le Groupe Mazars. C’est une grande fierté pour nous et nos équipes qui sont récompensées du travail acharnés qu’ils ont livré toute l’année pour arriver à produire du contenu de qualité en quantité. The Next CFO, une web TV qui sort les décideurs financiers internationaux du back office et les met en lumière. Sept programmes modernes et originaux plongent dans la définition changeante de ce que signifie être un directeur financier. « Pour les directeurs financiers » parce que le contenu est conçu pour intriguer et informer à la fois les principaux décideurs financiers et ceux qui espèrent prendre leur place. « Par les directeurs financiers » parce que les directeurs financiers eux-mêmes sont les conteurs – le public entend directement d’eux parler de leurs préoccupations les plus urgentes, de leurs passions et de leur vision de l’avenir. Les nouvelles technologies menacent de bouleverser les tâches fondamentales de la finance d’entreprise. The Next CFO vise à aider les directeurs financiers à assumer leur rôle en évolution et à inspirer la prochaine génération de professionnels de la finance à poursuivre dans cette voie. Conçue pour imiter les plates-formes de streaming vidéo populaires, la Web TV propose sept programmes et des témoignages sincères de directeurs financiers du monde entier.",
-            "quote": "The Next CFO est une Web TV et un média unique en son genre pour les CFO, par les CFO."
-        },
-        {
-            "id": 2,
-            "img": "../img/blog/blog2.png",
-            "date": "30 août 2020",
-            "title": "Cas client | Quand Mazars devient un média",
-            "extrait": "Ton décalé, images soignées, fond… profond : The Next CFO, la chaine TV conçue par Mazars et 136 est devenue en quelques semaines un vrai media à destination des dirigeants financiers. Retour sur une opération de vidéo marketing originale. Vous pensez que la finance est la spécialité la plus soporifique d’une entreprise ? The Next…",
-            "article": "Ton décalé, images soignées, fond… profond : The Next CFO, la chaine TV conçue par Mazars et 136 est devenue en quelques semaines un vrai media à destination des dirigeants financiers. Retour sur une opération de vidéo marketing originale. Vous pensez que la finance est la spécialité la plus soporifique d’une entreprise ? The Next CFO va vous faire changer d’avis. Cette WebTV, lancée par Mazars en mai 2018, conçue avec 136 et diffusée grâce à la plateforme vidéo de Novastream dépoussière sérieusement l’image de profession. Ce décalage assumé dans la façon d’aborder les grandes transformations de ce métier s’explique en grande partie par le positionnement de Mazars.Spécialisé dans l’audit, le conseil ainsi que les services comptables, fiscaux et juridiques, Mazars est présent dans 86 pays, compte 20 000 collaborateurs et 980 associés. « Nous sommes un challenger dans notre secteur d’activité, et avons décidé d’adopter un storytelling différent et différenciant », explique Jessica Wheaton, International Communication Officer au sein du Groupe Mazars. Le Directeur Financier est l’interlocuteur n°1 de Mazars dans les entreprises. Or la figure du CFO se prête très bien à une approche innovante en communication, il est assez peu mis en avant, voire pâtit d’une image assez brouillée et conservatrice. The Next CFO vise donc d’une part à donner une « voix » à ces professionnels, et d’autre part à redorer un peu leur blason »",
-            "quote": "UN STORYTELLING DÉCALÉ ET CIBLÉ"
-        }
-    ],
-    "latest": [
-        {
-            "id": 1,
-            "img": "assets/img/blog/blog1.png",
-            "date": "27 novembre 2020",
-            "title": "WEB TV MAZARS : UN PREMIER PRIX POUR 136 !",
-            "extrait": "Il y a quelques jours, nous recevions le COM-ENT d’argent du prix de la communication disruptive / impertinente pour TheNextCFO, le web TV que nous avons pensée et produite pour le Groupe Mazars. C’est une grande fierté pour nous et nos équipes qui sont récompensées du travail acharnés qu’ils ont livré toute l’année pour arriver à…",
-            "article": ""
-        },
-        {
-            "id": 2,
-            "img": "assets/img/blog/blog2.png",
-            "date": "30 août 2020",
-            "title": "Cas client | Quand Mazars devient un média",
-            "extrait": "Ton décalé, images soignées, fond… profond : The Next CFO, la chaine TV conçue par Mazars et 136 est devenue en quelques semaines un vrai media à destination des dirigeants financiers. Retour sur une opération de vidéo marketing originale. Vous pensez que la finance est la spécialité la plus soporifique d’une entreprise ? The Next…",
-            "article": ""
+            "image": "prestations/raymondDevos.jpg",
+            "client": "Raymond Devos",
+            "tag": "Réseaux sociaux",
+            "title": "En 2023, Raymond Devos se refait une jeunesse sur les réseaux sociaux.",
+            "description": "Molière du meilleur One-Man-Show en 1989, le maître incontesté de la langue française est au coeur des réseaux sociaux. 136 est très honoré de l'accompagner en publiant ses meilleurs sketchs.",
+            "image-prestation": "/prestations/raymondDevos.jpg",
+            "article-introduction": "Molière du meilleur One-Man-Show en 1989, le maître incontesté de la langue française est au coeur des réseaux sociaux. 136 est très honoré de l'accompagner en publiant ses meilleurs sketchs. Comme Raymond Devos le dit si bien, « Le rire est une chose sérieuse avec laquelle il ne faut pas plaisanter ». Idem pour 136 dans la gestion des réseaux sociaux de la fondation Raymond Devos sur les réseaux sociaux, c’est une collaboration main dans la main avec la Fondation Raymond Devos. Une institution qui défend l’oeuvre de la vie de l’humoriste et la diffuse en France ainsi qu’à l’étranger, pour promouvoir la langue française dont Devos est l’un des dignes représentant. 136 est fier de ce partage. Il nait d’un défis lancé par la Fondation : comment faire vivre l’œuvre de Raymond Devos à l’échelle nationale ? Comment le faire grandir dans l’esprit de la jeunesse française ? 136 répond en créant un contenu qui rassemble toutes les générations autour de l’humoriste. Par ce que Raymond Devos est si vivant, que le faire connaître, notamment auprès du jeune public, est un vrai plaisir.",
+            "article-title": "Le mot d'ordre sur les réseaux sociaux : régularité",
+            "article-paragraphe": "136 est d’abord venu apporter une régularité dans la communication des projets de la Fondation sur les réseaux sociaux. Plusieurs outils sont mis en place, comme le partage systématique des évènements de la Fondation ou l’enregistrement d’interviews d’artistes. Nous sommes très heureux de mettre au service de la Fondation nos compétences digitales. Et c’est un succès. Nos techniques suivent les tendances des réseaux sociaux comme les réels, les POV ou les stories Instagram. 136 en est convaincu : la clé du succès de la communication numérique autour de Raymond Devos se situe dans les habitudes des jeunes générations, si familières avec les réseaux.",
+            "article-title-1": "Mission accomplie par 136. Un bénéfice pour les réseaux de Raymond Devos.",
+            "article-paragraphe-1": "La technique ? Les sketchs de Raymond Devos ont été adaptés au format populaire sur les réseaux sociaux : les POV. Très en vogue, ces publications POV rapprochent une situation de notre quotidien - décrite par une phrase - à l’extrait vidéo que l’on publie. Une manière de s’identifier à l’univers de Raymond Devos malgré les générations qui les séparent. Ce rapprochement de l’humour de Raymond Devos aux situations de la vie courante contribue clairement à diffuser son talent. Une mission accomplie.",
+            "article-title-2": "Coup de jeune pour les réseaux sociaux de Monsieur Raymond Devos.",
+            "article-paragraphe-2": "À côté, le projet Monsieur Raymond Devos est né. Chaque jour, nous publions une citation phare de l’humoriste accompagnée de l'actualité du jour. Twitter, Instagram et Facebook relayent alors cette lecture décalée de l'info, décrite en une phrase par les mots si bien choisis du génie de la langue française. Avec le sourire, les équipes de 136 passent en revue quotidiennement les actualités du jour pour trouver LA nouvelle qui se marie le mieux avec le monde de l’humoriste.",
+            "article-title-3": "Relayer le savoir-faire de Devos sur les réseaux sociaux.",
+            "article-paragraphe-3": "Illustré par la plume aiguisée de Devos, le post sur la page Instagram permet au lecteur de comprendre l’actualité en associant l’image de l’information et la citation de Raymond Devos. Un format épuré qui nous est familier, quand on vogue sur les réseaux sociaux. 136 propose aussi un résumé de l’actualité dans la description du post, en respectant les codes de la brève journalistique. Le résultat : l’oeuvre de Devos perdure en suivant les cours de l’actualité. Mais le plus important reste à faire et 136 continue d’accompagner l’artiste qui, même après avoir soufflé ses 100 bougies, nous réserve encore de nombreuses surprises."
         }
     ]
 }
