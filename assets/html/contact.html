@@ -71,18 +71,18 @@
           <div class="collapse navbar-collapse mean-menu">
             <ul class="navbar-nav m-auto">
               <li class="nav-item">
-                <a href="../../index.html" class="nav-link">Accueil</a>
+                <a href="../../index.html" class="nav-link">Réception</a>
               </li>
               <li class="nav-item">
-                <a href="../../index.html#comciergerie" class="nav-link">La com'ciergerie</a>
-              </li>
-
-              <li class="nav-item">
-                <a href="../../index.html#offre" class="nav-link">Notre offre</a>
+                <a href="./comciergerie.html" class="nav-link">La com'ciergerie</a>
               </li>
 
               <li class="nav-item">
-                <a href="../../index.html#prestations" class="nav-link">
+                <a href="./offre.html" class="nav-link">Notre offre</a>
+              </li>
+
+              <li class="nav-item">
+                <a href="./prestation.html" class="nav-link">
                   Nos prestations
                 </a>
               </li>
@@ -122,7 +122,15 @@
         </span>
       </div>
 
-
+      <div class="sidebar-about">
+        <div class="title">
+          <p>
+            136 est une jeune agence digitale fondée en 2016 à Paris. Nous
+            proposons un modèle d’agence intégrée et sur-mesure unique en son
+            genre.
+          </p>
+        </div>
+      </div>
 
       <div class="contact-us">
         <h2>Contactez-nous</h2>
@@ -230,7 +238,7 @@
         <h2>Contactez-nous</h2>
         <ul>
           <li>
-            <a href="../../index.html">Accueil </a>
+            <a href="../../index.html">Réception </a>
           </li>
 
           <li class="active">Une demande particulière ?</li>
@@ -316,7 +324,7 @@
           <div class="contact-wrap">
             <h3>Ecrivez-nous</h3>
 
-            <form id="contactForm" action="/assets/php/sendEmail.php" method="post">
+            <form id="contactForm" action="../php/sendEmail.php" method="post">
               <div class="row align-items-center">
                 <div class="col-lg-6 col-sm-6">
                   <div class="form-group">
@@ -456,13 +464,13 @@
             <h3>Liens</h3>
             <ul class="additional-link">
               <li>
-                <a href="../../index.html#comciergerie">La com'ciergerie</a>
+                <a href="./assets/html/comciergerie.html">La com'ciergerie</a>
               </li>
               <li>
-                <a href="../../index.html#offre">Notre offre</a>
+                <a href="./assets/html/offre.html">Notre offre</a>
               </li>
               <li>
-                <a href="../../index.html#prestations">Nos prestations</a>
+                <a href="./assets/html/prestation.html">Nos prestations</a>
               </li>
               <li>
                 <a href="./assets/html/contact.html">Contact</a>
@@ -540,7 +548,7 @@
   <!-- End Go Top Area -->
 
   <!-- Jquery Min JS -->
-
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
   <script src="../js/jquery.min.js"></script>
   <!-- Bootstrap Bundle JS -->
   <script src="../js/bootstrap.bundle.min.js"></script>
@@ -568,8 +576,7 @@
   <script src="../js/form-validator.min.js"></script>
   <!-- Ajaxchimp Min JS -->
   <script src="../js/ajaxchimp.min.js"></script>
-  <!-- Contact Min JS -->
-  <script src="../js/contact-form-script.js"></script>
+
   <!-- Custom JS -->
   <script src="../js/custom.js"></script>
   <!-- Email JS -->
