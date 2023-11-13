@@ -1,34 +1,36 @@
 <?php
-require 'PHPMailer/PHPMailerAutoload.php';
-
-if ($_SERVER["REQUEST_METHOD"] === "POST") {
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    // Récupérez les données du formulaire
     $name = $_POST["name"];
     $email = $_POST["email"];
+    $phone_number = $_POST["phone_number"];
     $msg_subject = $_POST["msg_subject"];
-    $phone = $_POST["phone_number"];
     $message = $_POST["message"];
 
-    $mail = new PHPMailer;
+    // Adresse e-mail de destination
+    $to = "contact@agence136.fr";
 
-    $mail->isSMTP();
-    $mail->Host = 'smtp-relay.gmail.com';
-    $mail->SMTPAuth = true;
-    $mail->Username = 'your_username';
-    $mail->Password = 'your_password';
-    $mail->SMTPSecure = 'tls';
-    $mail->Port = 587;
+    // Sujet de l'e-mail
+    $subject = "Nouveau message de contact depuis votre site web";
 
-    $mail->setFrom($email, $name);
-    $mail->addAddress('contact@agence136.fr', 'Recipient Name');
+    // Contenu de l'e-mail
+    $email_content = "Nom: $name\n";
+    $email_content .= "Adresse e-mail: $email\n";
+    $email_content .= "Numéro de téléphone: $phone_number\n";
+    $email_content .= "Objet: $msg_subject\n\n";
+    $email_content .= "Message:\n$message";
 
-    $mail->Subject = $msg_subject;
-    $mail->Body = $message;
+    // Entêtes de l'e-mail
+    $headers = "From: elisabeth.malek@agence136.fr";
 
-    if ($mail->send()) {
-        http_response_code(200); // Réponse HTTP 200 OK
+    // Envoyer l'e-mail
+    if (mail($to, $subject, $email_content, $headers)) {
+        echo "Votre message a été envoyé avec succès.";
     } else {
-        http_response_code(500); // Réponse HTTP 500 Erreur interne du serveur
+        echo "Erreur lors de l'envoi du message. Veuillez réessayer plus tard.";
     }
 } else {
-    http_response_code(400); // Réponse HTTP 400 Mauvaise requête
+    // Redirection en cas d'accès direct au script sans soumission du formulaire
+    header("Location: /");
 }
+?>
