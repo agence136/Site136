@@ -1011,3 +1011,11 @@ Partner Area Style
 .single-blog:hover .blog-content a h3 {
   color: #272b2b;
 }
+
+.latest-trailer-content .default-btn {
+margin-left:0px;
+}
+
+.latest-trailer-content .project-btn {
+  margin-bottom:40px;
+  }

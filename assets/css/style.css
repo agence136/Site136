@@ -850,7 +850,9 @@ Sidebar Area Style
   display: block;
 }
 
-.sidebar-modal, .sidebar-instagram-feed, .sidebar-follow-us {
+.sidebar-modal,
+.sidebar-instagram-feed,
+.sidebar-follow-us {
   margin-bottom: 30px;
 }
 
@@ -1078,6 +1080,7 @@ Preloader Area Style*/
     -webkit-transform: rotate(0deg);
     transform: rotate(0deg);
   }
+
   100% {
     -webkit-transform: rotate(360deg);
     transform: rotate(360deg);
@@ -1089,6 +1092,7 @@ Preloader Area Style*/
     -webkit-transform: rotate(0deg);
     transform: rotate(0deg);
   }
+
   100% {
     -webkit-transform: rotate(360deg);
     transform: rotate(360deg);
@@ -1100,6 +1104,7 @@ Preloader Area Style*/
     -webkit-transform: rotate(0deg);
     transform: rotate(0deg);
   }
+
   100% {
     -webkit-transform: rotate(-360deg);
     transform: rotate(-360deg);
@@ -1111,6 +1116,7 @@ Preloader Area Style*/
     -webkit-transform: rotate(0deg);
     transform: rotate(0deg);
   }
+
   100% {
     -webkit-transform: rotate(-360deg);
     transform: rotate(-360deg);
@@ -1305,11 +1311,13 @@ Video wave Style*/
     transform: scale(0);
     opacity: 1;
   }
+
   50% {
     -webkit-transform: scale(1.5);
     transform: scale(1.5);
     opacity: 0.8;
   }
+
   100% {
     opacity: 0;
     -webkit-transform: scale(2);
@@ -1324,11 +1332,13 @@ Video wave Style*/
     transform: scale(0);
     opacity: 1;
   }
+
   50% {
     -webkit-transform: scale(1.5);
     transform: scale(1.5);
     opacity: 0.8;
   }
+
   100% {
     opacity: 0;
     -webkit-transform: scale(2);
@@ -1433,31 +1443,20 @@ Page-navigation Area Style*/
   border: none;
 }
 
-.bio-data ul{
+.bio-data ul {
   padding-left: 100px;
   color: #676a6a;
   font-family: "Montserrat";
 }
 
-.bio-data .row{
-margin-bottom:50px;
+.bio-data .row {
+  margin-bottom: 50px;
 }
 
-.about-content{
-  margin-bottom:70px;
+.about-content {
+  margin-bottom: 70px;
 }
 
-.legal p{
-  margin-bottom:0;
+.legal p {
+  margin-bottom: 0;
 }
-
-
-
-
-
-
- 
-
-
-
-
