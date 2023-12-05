@@ -41,6 +41,10 @@ Page Title Area Style
   background-image: url(../../assets/img/background/background-3.webp);
 }
 
+.page-title-area.bg-8 {
+  background-image: url(../../assets/img/background/background-8.png);
+}
+
 .page-title-area .page-title-content {
   margin-top: -10px;
 }
