@@ -26,3 +26,5 @@ for (let i in linkOffer) (
         window.location.href = "./assets/html/offre.html"
     })
 );
+
+
