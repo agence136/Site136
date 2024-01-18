@@ -1014,3 +1014,11 @@ Partner Area Style
   margin-bottom: 40px;
 }
 
+.video-button{
+  display:flex;
+  flex-direction:column;
+}
+
+.video-button h3{
+  margin-top:50px;
+}
