@@ -458,6 +458,7 @@ What We Do Area Style
   position: relative;
   margin-left: 100px;
   margin-bottom: 45px;
+  text-align: justify;
 }
 
 .what-we-do-content p::before {
@@ -1459,6 +1460,14 @@ Page-navigation Area Style*/
 
 .legal p {
   margin-bottom: 0;
+}
+
+.bio-data .about-content p{
+  text-align: justify;
+}
+
+.blog-top-content-wrap p{
+  text-align: justify;
 }
 
 
